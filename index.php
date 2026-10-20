@@ -89,7 +89,7 @@ footer{text-align:center;padding:24px;background:#fff;border-top:1px solid #e4ea
 <main>
 <section class="hero">
   <div class="movie-card">
-    <img class="poster" src="./montecristo.jpg" alt="The Count of Monte Cristo poster">
+    <img class="poster" src="https://github.com/eaaguilar/Movie_One_19102026/montecristo.jpg" alt="The Count of Monte Cristo poster">
     <h2>The Count of Monte Cristo</h2>
     <p>Welcome to <strong>Movie One</strong>. Enter your account to access the movie player and enjoy this classic tale of adventure, betrayal, justice, and revenge.</p>
   </div>
