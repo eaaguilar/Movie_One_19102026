@@ -89,7 +89,7 @@ footer{text-align:center;padding:24px;background:#fff;border-top:1px solid #e4ea
 <main>
 <section class="hero">
   <div class="movie-card">
-    <img class="poster" src="montecristo.jpg" alt="The Count of Monte Cristo poster">
+    <img class="poster" src="./montecristo.jpg" alt="The Count of Monte Cristo poster">
     <h2>The Count of Monte Cristo</h2>
     <p>Welcome to <strong>Movie One</strong>. Enter your account to access the movie player and enjoy this classic tale of adventure, betrayal, justice, and revenge.</p>
   </div>
@@ -118,7 +118,7 @@ footer{text-align:center;padding:24px;background:#fff;border-top:1px solid #e4ea
     <h2>🎬 The Count of Monte Cristo</h2>
     <div class="player-shell">
       <video controls preload="metadata" poster="montecristo.jpg">
-        <source src="montecristo.mp4" type="video/mp4">
+        <source src="./montecristo.mp4" type="video/mp4">
         Your browser cannot play this video. Please check the MP4 file and codec.
       </video>
     </div>
